@@ -9,7 +9,8 @@ My name is Vlatko Vilović and I want to use Data Science
 # My projects
 ---
 
-**[Exploratory Data Anaylsis (EDA) on King County Housing Data]** (https://github.com/vlatko-v/ds-king_county_housing-EDA)
+## **[Exploratory Data Anaylsis (EDA) on King County Housing Data]** 
+[Exploratory Data Anaylsis (EDA) on King County Housing Data]: https://github.com/vlatko-v/ds-king_county_housing-EDA
 
 In this EDA project, I examined housing data from King County (WA, USA) in order to gain insights on the local housing market for a fictitious client. The goal of the project was to provide him with at least three recommendations based on his requirements. 
 
@@ -19,8 +20,10 @@ In a first such project, I learned how to meaningfully think about the business 
 
 </br>
 
-<img src="https://github.com/vlatko-v/ds-king_county_housing-EDA/blob/main/visualisations/avg_house_size_per_zipcode.png" alt="drawing" width="800"/>
+<img src="https://github.com/vlatko-v/ds-king_county_housing-EDA/blob/main/visualisations/avg_house_size_per_zipcode.png" alt="drawing" width="700"/>
 
 ---
-**Predicting Urban Air Quality using Random Forests and XGBoost**
+</br>
+
+## **[Predicting Urban Air Quality using Random Forests and XGBoost]**
 
