@@ -17,6 +17,9 @@ Given that the client was looking for housing units in specific neighbourhood ty
 
 In a first such project, I learned how to meaningfully think about the business goal at hand, especially with respect to distinguishing between relevant and less relevant data to gain the most important insights. 
 
+</br>
+
+<img src="https://github.com/vlatko-v/ds-king_county_housing-EDA/blob/main/visualisations/avg_house_size_per_zipcode.png" alt="drawing" width="800"/>
 
 ---
 **Predicting Urban Air Quality using Random Forests and XGBoost**
