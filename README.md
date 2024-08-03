@@ -22,12 +22,11 @@ In a first such project, I learned how to meaningfully think about the business 
 
 ---
 
-## **[Conser-Vision: Classifying Images of Rainforest Species via CNN]**
+## **[Conser-Vision: Classifying Images of Wildlife Species via CNN]**
 [Conser-Vision: Classifying Images of Rainforest Species via CNN]: https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification
 
 Camera traps are a tool used by conservationists to study and monitor a wide range of ecologies while limiting human interference. However, they also generate a vast amount of data that quickly exceeds the capacity of humans to sift through.
 
 Using real-life images from the Taï National Park in Côte d'Ivoire, this project applies Transfer Learning and Image Augmentation techniques to create an image detection model based on Convolutional Neural Networks (CNN) that is suitable for classifying 7 types of animal species.
 
-<img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/ZJ004548.jpg" alt="drawing" width="300"/>
-<img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/roc_auc.png" alt="drawing" width="300"/>
+<img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/ZJ004548.jpg" alt="drawing" width="400"/><img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/roc_auc.png" alt="drawing" width="250"/><img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/confusion_matrix.png" alt="drawing" width="250"/>
