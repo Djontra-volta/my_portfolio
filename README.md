@@ -29,5 +29,5 @@ Camera traps are a tool used by conservationists to study and monitor a wide ran
 
 Using real-life images from the Taï National Park in Côte d'Ivoire, this project applies Transfer Learning and Image Augmentation techniques to create an image detection model based on Convolutional Neural Networks (CNN) that is suitable for classifying 7 types of animal species.
 
-<img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/ZJ004548.jpg" alt="drawing" width="700"/>
-<img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/roc_auc.png" alt="drawing" width="700"/>
+<img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/ZJ004548.jpg" alt="drawing" width="300"/>
+<img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/roc_auc.png" alt="drawing" width="300"/>
