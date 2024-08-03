@@ -23,7 +23,7 @@ In a first such project, I learned how to meaningfully think about the business 
 ---
 
 ## **[Conser-Vision: Classifying Images of Wildlife Species via CNN]**
-[Conser-Vision: Classifying Images of Rainforest Species via CNN]: https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification
+[Conser-Vision: Classifying Images of Wildlife Species via CNN]: https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification
 
 Camera traps are a tool used by conservationists to study and monitor a wide range of ecologies while limiting human interference. However, they also generate a vast amount of data that quickly exceeds the capacity of humans to sift through.
 
