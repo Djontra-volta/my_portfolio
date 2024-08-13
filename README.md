@@ -31,8 +31,8 @@ Using real-life images from the Taï National Park in Côte d'Ivoire, this proje
 
 <img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/ZJ004548.jpg" alt="drawing" width="400"/><img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/roc_auc.png" alt="drawing" width="250"/><img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/confusion_matrix.png" alt="drawing" width="250"/>
 
-## **[SweetSpot - A Time-Series Forecasting Model for Reducing Food Waste]**
-[SweetSpot - A Time-Series Forecasting Model for Reducing Food Waste]: https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting
+## **[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]**
+[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]: https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting
 
 Operating a food business comes with a unique set of challenges. Apart from health and safety standards or supply chain disruptions, the Food & Beverage (F&B) sector is struggling with perishability and waste, with roughly one-third of food being discarded every year.
 
