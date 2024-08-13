@@ -18,7 +18,7 @@ Given that the client was looking for housing units in specific neighbourhood ty
 In a first such project, I learned how to meaningfully think about the business goal at hand, especially with respect to distinguishing between more and less relevant data to gain the most important insights. 
 
 
-<img src="Images/king_county/avg_house_size_per_zipcode.png" alt="drawing" width="300"/><img src="Images/king_county/area_boxplot.png" alt="drawing" width="300"/>
+<img src="Images/king_county/avg_house_size_per_zipcode.png" alt="drawing" width="450"/><img src="Images/king_county/area_boxplot.png" alt="drawing" width="300"/>
 
 ---
 
