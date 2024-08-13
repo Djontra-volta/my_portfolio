@@ -18,7 +18,7 @@ Given that the client was looking for housing units in specific neighbourhood ty
 In a first such project, I learned how to meaningfully think about the business goal at hand, especially with respect to distinguishing between more and less relevant data to gain the most important insights. 
 
 
-<img src="https://github.com/vlatko-v/ds-king_county_housing-EDA/blob/main/visualisations/avg_house_size_per_zipcode.png" alt="drawing" width="700"/>
+<img src="Images/king_county/avg_house_size_per_zipcode.png" alt="drawing" width="300"/><img src="Images/king_county/area_boxplot.png" alt="drawing" width="300"/>
 
 ---
 
@@ -29,7 +29,7 @@ Camera traps are a tool used by conservationists to study and monitor a wide ran
 
 Using real-life images from the Taï National Park in Côte d'Ivoire, this project applies Transfer Learning and Image Augmentation techniques to create an image detection model based on Convolutional Neural Networks (CNN) that is suitable for classifying 7 types of animal species.
 
-<img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/ZJ004548.jpg" alt="drawing" width="400"/><img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/roc_auc.png" alt="drawing" width="250"/><img src="https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification/blob/main/visuals/confusion_matrix.png" alt="drawing" width="250"/>
+<img src="Images/conser-vision/ZJ004548.jpg" alt="drawing" width="400"/><img src="Images/conser-vision/roc_auc.png" alt="drawing" width="250"/><img src="Images/conser-vision/confusion_matrix.png" alt="drawing" width="250"/>
 
 ## **[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]**
 [sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]: https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting
@@ -38,4 +38,4 @@ Operating a food business comes with a unique set of challenges. Apart from heal
 
 In light of this challenge, this project aims to ameliorate the issue of food waste by developing a planning tool - called sweetspot - for more precise sales forecasting of a German donut manufacturer. By applying machine learning, this project can support accurate sales planning and better inventory management through the use of a wide variety of input information.
 
-<img src="https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting/blob/main/Visuals/linechart.png" alt="drawing" width="320"/><img src="https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting/blob/main/Visuals/mape_stores_products.png" alt="drawing" width="300"/><img src="https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting/blob/main/Visuals/linechart_predictions.png" alt="drawing" width="210"/>
+<img src="Images/sweetspot//linechart.png" alt="drawing" width="320"/><img src="Images/sweetspot/mape_stores_products.png" alt="drawing" width="300"/><img src="Images/sweetspot/linechart_predictions.png" alt="drawing" width="210"/>
