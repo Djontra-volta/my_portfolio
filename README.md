@@ -31,6 +31,8 @@ Using real-life images from the Taï National Park in Côte d'Ivoire, this proje
 
 <img src="Images/conser-vision/ZJ004548.jpg" alt="drawing" width="350"/><img src="Images/conser-vision/roc_auc.png" alt="drawing" width="220"/><img src="Images/conser-vision/confusion_matrix.png" alt="drawing" width="250"/>
 
+---
+
 ## **[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]**
 [sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]: https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting
 
