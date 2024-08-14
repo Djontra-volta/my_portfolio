@@ -21,14 +21,14 @@ alt="drawing" width="650"/><br /><br /><br />
 
 
 | **Data Science  <br/> Training Program**    | *SPICED Academy*    | *Apr 2024 - Jul 2024 <br/> (Berlin, Germany)* |
-|  **Master Environmental  <br/> Policy and Planning**  | *Berlin Institute of Technology / Freie Universität*  | *Oct 2013 - Mar 2017 <br/> (Berlin, Germany)* |
+|  **Master Environmental  <br/> Policy and Planning**  | *Berlin Institute of Technology / <br/> Freie Universität*  | *Oct 2013 - Mar 2017 <br/> (Berlin, Germany)* |
 | **Honors Bachelor  <br/> Political Science**  | *Hunter College (CUNY, New York)*    | *Aug 2009 - May 2013 <br/> (New York City, US)* |
 
 <br/>
 
 ### <ins>Technical Skills</ins>
 
-#### Python, SQL, Pandas, Numpy, scikit-learn, Seaborn, Matplotlib, Tensorflow/Keras, Git 
+**Python, SQL, Pandas, Numpy, scikit-learn, Seaborn, Matplotlib, Tensorflow/Keras, Git**
 
 <br /><br />
 
