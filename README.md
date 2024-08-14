@@ -27,7 +27,8 @@ alt="drawing" width="650"/><br /><br /><br />
 
 <br/>
 
-### <ins>Technical Skills</ins>
+### Technical Skills
+
 
 **Python, SQL, Pandas, Numpy, scikit-learn, Seaborn, Matplotlib, Tensorflow/Keras, Git**
 
