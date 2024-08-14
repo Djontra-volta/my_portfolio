@@ -1,10 +1,10 @@
 Welcome to my page!
 
-I am Vlatko Vilović, a social and environmental scientist passionate about exploring the world between technology, data science, and sustainability. 
+I am Vlatko Vilović, a social and environmental scientist passionate about exploring the world between data science, sustainability and society.
 
 I believe that the power of machine learning and data-driven technologies can be harnessed to address global challenges such as climate change, overconsumption, and resource inequality.
 
-I hope my portfolio not only intrigues those who share my interests but also resonates with anyone curious about the potential of technology to create a more sustainable future.
+My portfolio will hopefully intrigue not only those who share my interests but also resonate with anyone curious about the potential of machine learning technologies to create a more sustainable future.
 
 Have questions? Feel free to reach out!<br /><br />
 
@@ -18,9 +18,7 @@ alt="drawing" width="650"/><br /><br /><br />
 
 
 # Education
-* **Data Science Training Program**<br />
-*SPICED Academy*<br />
-Apr 2024 - Jul 2024 (Berlin, Germany)
+* **Data Science Training Program** | *SPICED Academy* | *Apr 2024 - Jul 2024 (Berlin, Germany)*
 
 * **Master Environmental Policy and Planning**<br />
 *Berlin Institute of Technology / Freie Universität*<br />
@@ -28,8 +26,14 @@ Oct 2013 - Mar 2017 (Berlin, Germany)
 
 * **Honors Bachelor Political Science**<br />
 *Hunter College (CUNY, New York)*<br />
-Aug 2009 - May 2013 (New York City, US)<br /><br /><br />
+Aug 2009 - May 2013 (New York City, US)<br /><br />
 
+
+### <ins>Technical Skills</ins>
+
+#### Python, SQL, Pandas, Numpy, scikit-learn, Seaborn, Matplotlib, Tensorflow/Keras, Git 
+
+<br /><br />
 
 # Relevant Work Experience
 **Project manager**<br />*inter 3 - Institute for resource management*<br />
