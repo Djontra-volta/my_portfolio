@@ -19,7 +19,7 @@ Have questions? Feel free to reach out!<br /><br />
 alt="drawing" width="650"/><br /><br /><br />
 
 
-# Education
+## Education
 
 
 | **Data Science  <br/> Training Program**    | *SPICED Academy*    | *Apr 2024 - Jul 2024 <br/> (Berlin, Germany)* |
@@ -34,7 +34,7 @@ alt="drawing" width="650"/><br /><br /><br />
 
 <br /><br />
 
-# Relevant Work Experience
+## Relevant Work Experience
 **Project manager**<br />*inter 3 - Institute for resource management*<br />
 Sep 2021 - Feb 2024 (Berlin, Germany)
 
