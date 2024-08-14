@@ -1,5 +1,3 @@
-# Project Portfolio
-
 Welcome to my page!
 
 I am Vlatko Vilović, a social and environmental scientist passionate about exploring the world between technology, data science, and sustainability. 
@@ -16,7 +14,7 @@ Have questions? Feel free to reach out!<br /><br />
 ### [**Linkedin**](https://www.linkedin.com/in/vlatko-vilovic/)
 
 <img src="Images\linkedin_vv.png" 
-alt="drawing" width="650"/><br /><br /><br /><br />
+alt="drawing" width="650"/><br /><br /><br />
 
 
 # Education
@@ -30,9 +28,7 @@ Oct 2013 - Mar 2017 (Berlin, Germany)
 
 * **Honors Bachelor Political Science**<br />
 *Hunter College (CUNY, New York)*<br />
-Aug 2009 - May 2013 (New York City, US)
-
-</br></br>
+Aug 2009 - May 2013 (New York City, US)<br /><br /><br />
 
 
 # Relevant Work Experience
@@ -49,10 +45,8 @@ Sep 2021 - Feb 2024 (Berlin, Germany)
 Mar 2019 - Aug 2021 (Berlin, Germany)
 
 - Project management - Prepared statistical and environmentally-extended Input-Output analyses (EEIO) to develop two EU Horizon 2020 projects on energy citizenship and resource management.
-- Knowledge-transfer lead - Applied target-specific communication strategies via social media, newsletters, brochures and presentations as part of the EU H2020 project E2DRIVER to disseminate project information to key stakeholders
+- Knowledge-transfer lead - Applied target-specific communication strategies via social media, newsletters, brochures and presentations as part of the EU H2020 project E2DRIVER to disseminate project information to key stakeholders<br /><br /><br />
 
-
-</br></br>
 
 # My Projects
 
