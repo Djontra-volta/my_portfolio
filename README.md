@@ -10,18 +10,18 @@ I hope my portfolio not only intrigues those who share my interests but also res
 
 Have questions? Feel free to reach out!
 
-</br>
 
-[**Linkedin**](https://www.linkedin.com/in/vlatko-vilovic/)
+
+
+### [**Linkedin**](https://www.linkedin.com/in/vlatko-vilovic/)
 
 <img src="Images\linkedin_vv.png" 
 alt="drawing" width="650"/>
 
+
 </br>
 
-[**Email**](vlatko.vilovic@gmail.com)
-
-</br></br>
+</br>
 
 
 
