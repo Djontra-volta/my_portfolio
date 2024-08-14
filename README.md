@@ -1,8 +1,28 @@
 # Project Portfolio
 
-Welcome!
+Welcome to my page!
 
-My name is Vlatko Vilović and I want to use Data Science 
+I am Vlatko Vilović, a social and environmental scientist passionate about exploring the world between technology, data science, and sustainability. 
+
+I believe that the power of machine learning can be harnessed to address global challenges such as climate change, overconsumption, and resource inequality. By applying data-driven technologies, I aim to strengthen the positive interactions between society and the environment.
+
+I hope my portfolio not only intrigues those who share my interests but also resonates with anyone curious about the potential of technology to create a more sustainable future.
+
+Have questions? Feel free to reach out!
+
+</br>
+
+[**Linkedin**](https://www.linkedin.com/in/vlatko-vilovic/)
+
+<img src="Images\linkedin_vv.png" 
+alt="drawing" width="650"/>
+
+</br>
+
+[**Email**](vlatko.vilovic@gmail.com)
+
+</br></br>
+
 
 
 # My projects
