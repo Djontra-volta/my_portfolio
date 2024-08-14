@@ -8,7 +8,7 @@ I believe that the power of machine learning and data-driven technologies can be
 
 I hope my portfolio not only intrigues those who share my interests but also resonates with anyone curious about the potential of technology to create a more sustainable future.
 
-Have questions? Feel free to reach out!
+Have questions? Feel free to reach out!<br /><br />
 
 
 
