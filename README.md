@@ -11,9 +11,8 @@ My portfolio will hopefully intrigue not only those who share my interests but a
 Have questions? Feel free to reach out!<br /><br />
 
 
+### <ins>**<a href="https://www.linkedin.com/in/vlatko-vilovic/" style="color: #3195E7;">Linkedin</a>**</ins>
 
-
-### [**Linkedin**](https://www.linkedin.com/in/vlatko-vilovic/)
 
 <img src="Images\linkedin_vv.png" 
 alt="drawing" width="650"/><br /><br /><br />
