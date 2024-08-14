@@ -19,10 +19,42 @@ Have questions? Feel free to reach out!<br /><br />
 alt="drawing" width="650"/><br /><br /><br /><br />
 
 
+# Education
+* **Data Science Training Program**<br />
+*SPICED Academy*<br />
+Apr 2024 - Jul 2024 (Berlin, Germany)
+
+* **Master Environmental Policy and Planning**<br />
+*Berlin Institute of Technology / Freie Universität*<br />
+Oct 2013 - Mar 2017 (Berlin, Germany)
+
+* **Honors Bachelor Political Science**<br />
+*Hunter College (CUNY, New York)*<br />
+Aug 2009 - May 2013 (New York City, US)
+
+</br></br>
 
 
+# Relevant Work Experience
+**Project manager**<br />*inter 3 - Institute for resource management*<br />
+Sep 2021 - Feb 2024 (Berlin, Germany)
 
-# My projects
+- Data analysis - Applied discrete choice and regression models in R and Python. I modelled rural coworking space utilisation for assessing car emissions reductions as well as the effects of local mobility measures on air quality. Automated GIS models to identify suitable agricultural land for water reuse.
+- Project management - Lead of 2 citizen science-based pilot experiments on air quality and traffic measurements as part of the Horizon 2020 COMPAIR project. Organised and moderated 9 workshops with citizens on air quality, data and visualisation technologies
+- Served as Agile Product Owner for an AR app on air quality visualisation, coordinating between 3 main stakeholders to prioritise 30+ user stories using Jira.
+
+<br />
+
+**Project manager**<br />*EPC gGmbH - Project Corporation for Climate. Sustainability. Communication*<br />
+Mar 2019 - Aug 2021 (Berlin, Germany)
+
+- Project management - Prepared statistical and environmentally-extended Input-Output analyses (EEIO) to develop two EU Horizon 2020 projects on energy citizenship and resource management.
+- Knowledge-transfer lead - Applied target-specific communication strategies via social media, newsletters, brochures and presentations as part of the EU H2020 project E2DRIVER to disseminate project information to key stakeholders
+
+
+</br></br>
+
+# My Projects
 
 
 ## **[Exploratory Data Anaylsis (EDA) on King County Housing Data]** 
