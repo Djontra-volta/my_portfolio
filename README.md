@@ -16,17 +16,14 @@ Have questions? Feel free to reach out!
 ### [**Linkedin**](https://www.linkedin.com/in/vlatko-vilovic/)
 
 <img src="Images\linkedin_vv.png" 
-alt="drawing" width="650"/>
+alt="drawing" width="650"/><br /><br /><br /><br />
 
 
-</br>
-
-</br>
 
 
 
 # My projects
----
+
 
 ## **[Exploratory Data Anaylsis (EDA) on King County Housing Data]** 
 [Exploratory Data Anaylsis (EDA) on King County Housing Data]: https://github.com/vlatko-v/ds-king_county_housing-EDA
