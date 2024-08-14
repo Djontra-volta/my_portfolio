@@ -53,7 +53,7 @@ Mar 2019 - Aug 2021 (Berlin, Germany)
 # My Projects
 
 
-## **[Exploratory Data Anaylsis (EDA) on King County Housing Data]** 
+## <ins>**[Exploratory Data Anaylsis (EDA) on King County Housing Data]**<ins>
 [Exploratory Data Anaylsis (EDA) on King County Housing Data]: https://github.com/vlatko-v/ds-king_county_housing-EDA
 
 In this EDA project, I examined housing data from King County (WA, USA) in order to explore the characteristics of the local housing market for a fictitious client. The goal of the project was to provide him with at least three recommendations based on his requirements. 
@@ -67,7 +67,7 @@ In a first such project, I learned how to meaningfully think about the business 
 
 ---
 
-## **[Conser-Vision: Classifying Images of Wildlife Species via CNN]**
+## <ins>**[Conser-Vision: Classifying Images of Wildlife Species via CNN]**<ins>
 [Conser-Vision: Classifying Images of Wildlife Species via CNN]: https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification
 
 Camera traps are a tool used by conservationists to study and monitor a wide range of ecologies while limiting human interference. However, they also generate a vast amount of data that quickly exceeds the capacity of humans to sift through.
@@ -78,7 +78,7 @@ Using real-life images from the Taï National Park in Côte d'Ivoire, this proje
 
 ---
 
-## **[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]**
+## <ins>**[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]**<ins>
 [sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]: https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting
 
 Operating a food business comes with a unique set of challenges. Apart from health and safety standards or supply chain disruptions, the Food & Beverage (F&B) sector is struggling with perishability and waste, with roughly one-third of food being discarded every year.
