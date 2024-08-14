@@ -42,7 +42,6 @@ Sep 2021 - Feb 2024 (Berlin, Germany)
 - Project management - Lead of 2 citizen science-based pilot experiments on air quality and traffic measurements as part of the Horizon 2020 COMPAIR project. Organised and moderated 9 workshops with citizens on air quality, data and visualisation technologies
 - Served as Agile Product Owner for an AR app on air quality visualisation, coordinating between 3 main stakeholders to prioritise 30+ user stories using Jira.
 
-<br />
 
 **Project manager**<br />*EPC gGmbH - Project Corporation for Climate. Sustainability. Communication*<br />
 Mar 2019 - Aug 2021 (Berlin, Germany)
