@@ -4,7 +4,7 @@ Welcome to my page!
 
 I am Vlatko Vilović, a social and environmental scientist passionate about exploring the world between technology, data science, and sustainability. 
 
-I believe that the power of machine learning can be harnessed to address global challenges such as climate change, overconsumption, and resource inequality. By applying data-driven technologies, I aim to strengthen the positive interactions between society and the environment.
+I believe that the power of machine learning and data-driven technologies can be harnessed to address global challenges such as climate change, overconsumption, and resource inequality.
 
 I hope my portfolio not only intrigues those who share my interests but also resonates with anyone curious about the potential of technology to create a more sustainable future.
 
