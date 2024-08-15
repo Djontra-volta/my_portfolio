@@ -54,17 +54,13 @@ Mar 2019 - Aug 2021 (Berlin, Germany)
 
 # My Projects
 
+## <ins>[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste](https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting)
 
-## <ins>[Exploratory Data Anaylsis (EDA): King County Housing Data](https://github.com/vlatko-v/ds-king_county_housing-EDA)
+Operating a food business comes with a unique set of challenges. Apart from health and safety standards or supply chain disruptions, the Food & Beverage (F&B) sector is struggling with perishability and waste, with roughly one-third of food being discarded every year.
 
-In this EDA project, I examined housing data from King County (WA, USA) in order to explore the characteristics of the local housing market for a fictitious client. The goal of the project was to provide him with at least three recommendations based on his requirements. 
+In light of this challenge, this project aims to ameliorate the issue of food waste by developing a planning tool - called sweetspot - for more precise sales forecasting of a German donut manufacturer. By applying machine learning, this project can support accurate sales planning and better inventory management through the use of a wide variety of input information.
 
-Given that the client was looking for housing units in specific neighbourhood types, a large part of the process involved examining geographical features to recommend suitable areas and houses.
-
-In a first such project, I learned how to meaningfully think about the business goal at hand, especially with respect to distinguishing between more and less relevant data to gain the most important insights. 
-
-
-<img src="Images/king_county/avg_house_size_per_zipcode.png" alt="drawing" width="450"/><img src="Images/king_county/area_boxplot.png" alt="drawing" width="300"/>
+<img src="Images/sweetspot//linechart.png" alt="drawing" width="320"/><img src="Images/sweetspot/mape_stores_products.png" alt="drawing" width="300"/><img src="Images/sweetspot/linechart_predictions.png" alt="drawing" width="210"/>
 
 ---
 
@@ -76,12 +72,16 @@ Using real-life images from the Taï National Park in Côte d'Ivoire, this proje
 
 <img src="Images/conser-vision/ZJ004548.jpg" alt="drawing" width="350"/><img src="Images/conser-vision/roc_auc.png" alt="drawing" width="220"/><img src="Images/conser-vision/confusion_matrix.png" alt="drawing" width="250"/>
 
+
 ---
 
-## <ins>[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste](https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting)
+## <ins>[Exploratory Data Anaylsis (EDA): King County Housing Data](https://github.com/vlatko-v/ds-king_county_housing-EDA)
 
-Operating a food business comes with a unique set of challenges. Apart from health and safety standards or supply chain disruptions, the Food & Beverage (F&B) sector is struggling with perishability and waste, with roughly one-third of food being discarded every year.
+In this EDA project, I examined housing data from King County (WA, USA) in order to explore the characteristics of the local housing market for a fictitious client. The goal of the project was to provide him with at least three recommendations based on his requirements. 
 
-In light of this challenge, this project aims to ameliorate the issue of food waste by developing a planning tool - called sweetspot - for more precise sales forecasting of a German donut manufacturer. By applying machine learning, this project can support accurate sales planning and better inventory management through the use of a wide variety of input information.
+Given that the client was looking for housing units in specific neighbourhood types, a large part of the process involved examining geographical features to recommend suitable areas and houses.
 
-<img src="Images/sweetspot//linechart.png" alt="drawing" width="320"/><img src="Images/sweetspot/mape_stores_products.png" alt="drawing" width="300"/><img src="Images/sweetspot/linechart_predictions.png" alt="drawing" width="210"/>
+In a first such project, I learned how to meaningfully think about the business goal at hand, especially with respect to distinguishing between more and less relevant data to gain the most important insights. 
+
+
+<img src="Images/king_county/avg_house_size_per_zipcode.png" alt="drawing" width="450"/><img src="Images/king_county/area_boxplot.png" alt="drawing" width="300"/>
