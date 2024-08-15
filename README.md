@@ -21,8 +21,8 @@ alt="drawing" width="650"/><br /><br /><br />
 ## Education
 
 
-| **Data Science  <br/> Training Program**    | *SPICED Academy*    | *Apr 2024 - Jul 2024 <br/> (Berlin, Germany)* |
-|  **Master Environmental  <br/> Policy and Planning**  | *Berlin Institute of Technology / <br/> Freie Universität*  | *Oct 2013 - Mar 2017 <br/> (Berlin, Germany)* |
+| **Data Science  <br/> Training Program**    | *SPICED Academy*    | *Apr 2024 - Jul 2024 <br/> (Berlin, Germany)* |<br/>
+|  **Master Environmental  <br/> Policy and Planning**  | *Berlin Institute of Technology / <br/> Freie Universität*  | *Oct 2013 - Mar 2017 <br/> (Berlin, Germany)* |<br/>
 | **Honors Bachelor  <br/> Political Science**  | *Hunter College (CUNY, New York)*    | *Aug 2009 - May 2013 <br/> (New York City, US)* |
 
 <br/>
@@ -53,12 +53,11 @@ Mar 2019 - Aug 2021 (Berlin, Germany)
 # My Projects
 
 
-## <ins>**[Exploratory Data Anaylsis (EDA) on King County Housing Data]**<ins>
-[Exploratory Data Anaylsis (EDA) on King County Housing Data]: https://github.com/vlatko-v/ds-king_county_housing-EDA
+## <ins>[Exploratory Data Anaylsis (EDA): King County Housing Data](https://github.com/vlatko-v/ds-king_county_housing-EDA)
 
 In this EDA project, I examined housing data from King County (WA, USA) in order to explore the characteristics of the local housing market for a fictitious client. The goal of the project was to provide him with at least three recommendations based on his requirements. 
 
-Given that the client was looking for housing units in specific neighbourhood types, a large part of the process involved examining geographical features to recommend suitable areas and house types.
+Given that the client was looking for housing units in specific neighbourhood types, a large part of the process involved examining geographical features to recommend suitable areas and houses.
 
 In a first such project, I learned how to meaningfully think about the business goal at hand, especially with respect to distinguishing between more and less relevant data to gain the most important insights. 
 
@@ -67,8 +66,7 @@ In a first such project, I learned how to meaningfully think about the business 
 
 ---
 
-## <ins>**[Conser-Vision: Classifying Images of Wildlife Species via CNN]**<ins>
-[Conser-Vision: Classifying Images of Wildlife Species via CNN]: https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification
+## <ins>[Conser-Vision: Classifying Images of Wildlife Species via CNN](https://github.com/vlatko-v/drivendata-Conser-vision-Image-Classification)
 
 Camera traps are a tool used by conservationists to study and monitor a wide range of ecologies while limiting human interference. However, they also generate a vast amount of data that quickly exceeds the capacity of humans to sift through.
 
@@ -78,8 +76,7 @@ Using real-life images from the Taï National Park in Côte d'Ivoire, this proje
 
 ---
 
-## <ins>**[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]**<ins>
-[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste]: https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting
+## <ins>[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste](https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting)
 
 Operating a food business comes with a unique set of challenges. Apart from health and safety standards or supply chain disruptions, the Food & Beverage (F&B) sector is struggling with perishability and waste, with roughly one-third of food being discarded every year.
 
