@@ -20,10 +20,12 @@ alt="drawing" width="650"/><br /><br /><br />
 
 ## Education
 
+|   |   |   |   
+|----|----|----|
+| **Data Science  <br/> Training Program**    | *SPICED Academy <br/>(Berlin, Germany)*    | *Apr 2024 - <br/> Jul 2024 <br/>* |
+|  **Master Environmental  <br/> Policy and Planning**  | *Berlin Institute of Technology / <br/> Freie Universität <br/> (Berlin, Germany)*  | *Oct 2013 - <br/> Mar 2017 <br/>*  |
+| **Honors Bachelor  <br/> Political Science**  | *Hunter College <br/> (CUNY, New York, US)*    | *Aug 2009 - <br/> May 2013 <br/>* |
 
-| **Data Science  <br/> Training Program**    | *SPICED Academy*    | *Apr 2024 - Jul 2024 <br/> (Berlin, Germany)* |<br/>
-|  **Master Environmental  <br/> Policy and Planning**  | *Berlin Institute of Technology / <br/> Freie Universität*  | *Oct 2013 - Mar 2017 <br/> (Berlin, Germany)* |<br/>
-| **Honors Bachelor  <br/> Political Science**  | *Hunter College (CUNY, New York)*    | *Aug 2009 - May 2013 <br/> (New York City, US)* |
 
 <br/>
 
