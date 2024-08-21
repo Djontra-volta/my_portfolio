@@ -75,7 +75,7 @@ Using real-life images from the Taï National Park in Côte d'Ivoire, this proje
 
 ---
 
-## <ins>[Exploratory Data Anaylsis (EDA): King County Housing Data](https://github.com/vlatko-v/ds-king_county_housing-EDA)
+## <ins>[Exploratory Data Analysis (EDA): King County Housing Data](https://github.com/vlatko-v/ds-king_county_housing-EDA)
 
 In this EDA project, I examined housing data from King County (WA, USA) in order to explore the characteristics of the local housing market for a fictitious client. The goal of the project was to provide him with at least three recommendations based on his requirements. 
 
