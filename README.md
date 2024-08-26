@@ -37,7 +37,7 @@ alt="drawing" width="650"/><br /><br /><br />
 <br /><br />
 
 ## Relevant Work Experience
-**Project manager**<br />*inter 3 - Institute for resource management*<br />
+**Project manager | Research Associate**<br />*inter 3 - Institute for resource management*<br />
 Sep 2021 - Feb 2024 (Berlin, Germany)
 
 - Data analysis - Applied discrete choice and regression models in R and Python. I modelled rural coworking space utilisation for assessing car emissions reductions as well as the effects of local mobility measures on air quality. Automated GIS models to identify suitable agricultural land for water reuse.
@@ -45,7 +45,7 @@ Sep 2021 - Feb 2024 (Berlin, Germany)
 - Served as Agile Product Owner for an AR app on air quality visualisation, coordinating between 3 main stakeholders to prioritise 30+ user stories using Jira.
 
 
-**Project manager**<br />*EPC gGmbH - Project Corporation for Climate. Sustainability. Communication*<br />
+**Project manager | Communications Lead**<br />*EPC gGmbH - Project Corporation for Climate. Sustainability. Communication*<br />
 Mar 2019 - Aug 2021 (Berlin, Germany)
 
 - Project management - Prepared statistical and environmentally-extended Input-Output analyses (EEIO) to develop two EU Horizon 2020 projects on energy citizenship and resource management.
@@ -53,6 +53,9 @@ Mar 2019 - Aug 2021 (Berlin, Germany)
 
 
 # My Projects
+*Click on project titles for a more detailed overview.*
+
+---
 
 ## <ins>[sweetspot - A Time-Series Forecasting Model for Reducing Food Waste](https://github.com/vlatko-v/sweet-spot-donut-sales-forecasting)
 
