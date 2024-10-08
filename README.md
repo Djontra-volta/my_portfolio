@@ -4,7 +4,7 @@ Welcome to my page!
 
 I am Vlatko Vilović, a social and environmental scientist passionate about exploring the world between data science, sustainability and society.
 
-I believe that the power of machine learning and data-driven technologies can be harnessed to address global challenges such as climate change, overconsumption, and resource inequality.
+I believe that the power of machine learning and data-driven technologies can be harnessed to address global challenges such as climate change, overconsumption, and urban resource management.
 
 My portfolio will hopefully intrigue not only those who share my interests but also resonate with anyone curious about the potential of machine learning technologies to create a more sustainable future.
 
@@ -37,7 +37,7 @@ alt="drawing" width="650"/><br /><br /><br />
 <br /><br />
 
 ## Relevant Work Experience
-**Project manager | Research Associate**<br />*inter 3 - Institute for resource management*<br />
+**Data Analyst | Research Associate**<br />*inter 3 - Institute for resource management*<br />
 Sep 2021 - Feb 2024 (Berlin, Germany)
 
 - Data analysis - Applied discrete choice and regression models in R and Python. I modelled rural coworking space utilisation for assessing car emissions reductions as well as the effects of local mobility measures on air quality. Automated GIS models to identify suitable agricultural land for water reuse.
